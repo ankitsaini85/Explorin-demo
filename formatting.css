@@ -1,0 +1,52 @@
+h1{
+    color:blue
+}
+body{
+    border: 2px solid black;
+}
+body>div{
+    padding: 10px;
+    background-color:rgb(241, 236, 236);
+}
+body>div>p{
+   border-left: 3px solid blue;
+   line-height: 40px;
+   box-shadow: 0px 0px 5px  2px rgb(197, 195, 195) ;
+   padding:0px 5px;
+   background-color: white;
+}
+section[class="introduction"]{
+    box-shadow: 1px 1px 5px  2px rgb(197, 195, 195) ;
+    padding-top: 10px;
+    background-color: rgb(255, 252, 249);
+    padding-left: 10px;
+   
+}
+section[class="introduction"] p{
+    border-left: 3px solid blue;
+    padding:0px 5px;
+    box-shadow: 0.5px 0.5px 5px  2px rgb(197, 195, 195) ;
+    background-color: white;
+    line-height: 30px;
+    
+}
+hr{
+    border-color: blue;
+}
+section[class="html-section"]{
+    box-shadow: 1px 1px 5px  2px rgb(197, 195, 195) ;
+    padding: 10px;
+    margin-top:20px;
+    background-color: rgb(255, 252, 249);
+}
+section[class="html-section"] p{
+    background-color: white;
+    border-left: 3px solid blue;
+    padding:0px 5px;
+    box-shadow: 0.5px 0.5px 5px  2px rgb(197, 195, 195)
+  
+}
+    
+
+
+
