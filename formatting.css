@@ -13,7 +13,7 @@ body>div>p{
    border-left: 4px solid blue;
    line-height: 40px;
    box-shadow: 0px 0px 5px  2px rgb(197, 195, 195) ;
-   padding:0px 5px;
+   padding:1px 5px;
    background-color: white;
 }
 section[class="introduction"]{
