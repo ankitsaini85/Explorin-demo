@@ -7,7 +7,7 @@ body{
 }
 body>div{
     padding: 22px;
-    background-color:rgb(242, 240, 238);
+    background-color:rgb(242, 242, 238);
 }
 body>div>p{
    border-left: 6px solid blue;
