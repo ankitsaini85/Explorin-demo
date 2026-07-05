@@ -17,7 +17,7 @@ body>div>p{
    background-color: blue;
 }
 section[class="introduction"]{
-    box-shadow: 1px 1px 5px  2px rgb(197, 195, 195) ;
+    box-shadow: 2px 2px 5px  2px rgb(197, 195, 195) ;
     padding-top: 12px;
     background-color: rgb(255, 252, 249);
     padding-left: 10px;
