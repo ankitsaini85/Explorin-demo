@@ -6,7 +6,7 @@ body{
     border: 16px solid green;
 }
 body>div{
-    padding: 22px;
+    padding: 26px;
     background-color:rgb(244, 242, 238);
 }
 body>div>p{
