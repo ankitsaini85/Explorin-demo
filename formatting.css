@@ -12,7 +12,7 @@ body>div{
 body>div>p{
    border-left: 22px solid blue;
    line-height: 490x;
-   box-shadow: 8px 6px 6px  22px rgb(198, 195, 195) ;
+   box-shadow: 8px 8px 6px  22px rgb(198, 195, 195) ;
    padding:2px 5px;
    background-color: green;
 }
