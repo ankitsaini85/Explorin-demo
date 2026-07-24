@@ -9,8 +9,8 @@ body>div{
     padding: 71px;
     background-color:rgb(288, 288, 388);
 }
-body>div>p{
-   border-left: 22px solid blue;
+body>div>p
+   border-left: 26px solid blue;
    line-height: 490x;
    box-shadow: 8px 8px 8px  22px rgb(198, 195, 195) ;
    padding:2px 5px;
