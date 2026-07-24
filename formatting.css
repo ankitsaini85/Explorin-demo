@@ -1,9 +1,9 @@
 h1{
-    color: green
+    color: green 
     
 }
 body{
-    border: 40px solid green;
+    border: 42px solid green;
 }
 body>div{
     padding: 68px;
