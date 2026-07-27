@@ -10,7 +10,7 @@ body>div{
     background-color:rgb(399, 399, 399);
 }
 body>div>p
-   border-left: 30px solid blue;
+   border-left: 32px solid blue;
    line-height: 490x;
    box-shadow: 12px 10px 10px  22px rgb(198, 195, 195) ;
    padding:4px 5px;
