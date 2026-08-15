@@ -7,8 +7,8 @@ body{
 }
 body>div{
     padding: 96px ;
-    background-color:rgb(466, 464, 464);
-}
+    background-color:rgb(466, 466, 464);
+
 body>div>p
    border-left: 60px solid blue;
    line-height: 499px;
